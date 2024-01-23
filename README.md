@@ -1,4 +1,4 @@
-# Imagined-vs-Recalled-Memories-
+# Imagined-vs-Recalled-Memories
 
 ## Introduction
 This project explores the classification of narratives within the Hippocorpus dataset as either 'recalled' or 'imagined'. Utilizing advanced NLP techniques, including BERT embeddings and sentiment analysis, the study aims to distinguish between the nuanced aspects of human memory and imagination. The project unfolds in three phases, each building upon the last to refine the classification model.
